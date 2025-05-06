@@ -18,3 +18,4 @@ channels_redis
 djangorestframework
 daphne
 django-import-export
+django-heroku
